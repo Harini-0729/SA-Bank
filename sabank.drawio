@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="RjZXXdVt1JLSOxRJLhTD">
+    <mxGraphModel dx="1030" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d9bLzCQUhrM8T-5AknYs-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;PLANNING&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Plan online banking system&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bLzCQUhrM8T-5AknYs-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="379.5" y="160" as="sourcePoint" />
+            <mxPoint x="379.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d9bLzCQUhrM8T-5AknYs-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;REQUIREMENT&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Identify customer, admin, login, balance,&lt;/div&gt;&lt;div&gt;transfer requirements&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bLzCQUhrM8T-5AknYs-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="379.5" y="360" as="sourcePoint" />
+            <mxPoint x="379.5" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d9bLzCQUhrM8T-5AknYs-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;DEVELOPMENT&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Develop bank application&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="240" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bLzCQUhrM8T-5AknYs-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="379.5" y="560" as="sourcePoint" />
+            <mxPoint x="379.5" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d9bLzCQUhrM8T-5AknYs-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;TESTING&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;test login, transaction, balance, security&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="240" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bLzCQUhrM8T-5AknYs-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="379.5" y="760" as="sourcePoint" />
+            <mxPoint x="379.5" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d9bLzCQUhrM8T-5AknYs-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;DEPLOYMENT&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Launch the banking application&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="240" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bLzCQUhrM8T-5AknYs-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="d9bLzCQUhrM8T-5AknYs-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="379.5" y="920" as="sourcePoint" />
+            <mxPoint x="379.5" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d9bLzCQUhrM8T-5AknYs-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;MAINTENANCE&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fix bugs and add new features&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="240" y="960" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
